@@ -1,8 +1,9 @@
-## SENG207-courseproject
+## SENG207-courseproject <hr>
 
 This is a project work on datasets and analysis I worked on as a course project for __*Programming for Engineers, SENG207*__
 a first semester course I read in my second year at the University of Ghana. In this project.... 
 (cntd in the ReadMe file) 
+
 > Thank you!
 
 This is a project work on datasets and analysis I worked on as a course project for Programming for Engineers, SENG207
